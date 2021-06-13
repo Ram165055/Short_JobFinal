@@ -20,7 +20,8 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     path('', include('pagelink.urls')),
-    path('admin/', admin.site.urls),
+    path('admin/', admin.site.urls),    
+    # http://127.0.0.1:8000/admin/pagelink
 ]
 
 urlpatterns=urlpatterns+static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)

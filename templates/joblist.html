@@ -63,7 +63,7 @@
                                                 <li><a href="#">Pages</a>
                                                     <ul class="submenu">
                                                         <li><a href="about">about</a></li>
-                                                        <li><a href="blog">Blog</a></li>
+                                                        <li><a href="frontpage">Blog</a></li>
                                                     </ul>
                                                 </li>
                                                 <!-- <li><a href="login">Log in</a></li> -->
@@ -112,19 +112,31 @@
             {%for dest in dests %}
             
             <div style="background-color:#f2f2f2;" >
-            <p style="padding-left:10px;">name:{{dest.name}}</p>
-            <P style="padding-left:10px;"><img src="{{dest.img.url}}" alt="ram is good boy"></P>
-            <P style="padding-left:10px;">price:{{dest.price}}</P>
-            <p style="padding-left:10px;">desc:{{dest.desc}}</p>
-            <p style="padding-left:10px">phone:{{dest.phone}}</p>
+                <div class="container" style="display:flex;">
+                   
+                    <img src="{{dest.img.url}}" alt="ram is good boy" height="250" width="250">
+                    name: {{dest.name}}
+                    desc: {{dest.desc}}
+                    skill: {{dest.skill}}
+                    price: {{dest.price}}
+                    location: {{dest.location}}
+                    phone: {{dest.phone}}
+                    <form action="my_func" method="post">
+                        <div class="btn-group" id="remove-heli-{{ forloop.counter }}">
+                            <button type="button" class="btn btn-default"onclick="alert('you have applied')">
+                                {{ dest }}
+                            </button>
+                        </div>
+                       </form>
+                  </div>
             <!-- <button type="button" onclick="alert('you have applied for this job')" style="background-color: black;">Click Me!</button> -->
-           <form action="my_func" method="post">
+           <!-- <form action="my_func" method="post">
             <div class="btn-group" id="remove-heli-{{ forloop.counter }}">
                 <button type="button" class="btn btn-default"onclick="alert('you have applied')">
                     {{ dest }}
                 </button>
             </div>
-           </form>
+           </form> -->
              </div>
             {% endfor %}
             <!-- </div> -->
@@ -228,7 +240,7 @@
                     <div class="col-xl-12 ">
                         <div class="footer-copy-right text-center">
                             <p><!-- bottom line -->
-                              <script>document.write(new Date().getFullYear());</script> This WebSite is a college project by <i class="fa fa-heart" aria-hidden="true"> Group number- 21</i></br>
+                              <script>document.write(new Date().getFullYear());</script> This WebSite is a college project by <i class="fa fa-heart" aria-hidden="true"> Group number- 19</i></br>
                               <!-- bottom fields --></p>
                           </div>
                       </div>

@@ -59,11 +59,11 @@
                                         <nav>
                                             <ul id="navigation">
                                                 <li><a href="/">Home</a></li>
-                                                <li><a href="joblist">Joblist</a></li>
-                                                <li><a href="#">Pages</a>
+                                                <!-- <li><a href="joblist">Joblist</a></li> -->
+                                                <!-- <li><a href="#">Pages</a> -->
                                                     <ul class="submenu">
-                                                        <li><a href="about">about</a></li>
-                                                        <li><a href="blog">Blog</a></li>
+                                                        <!-- <li><a href="about">about</a></li> -->
+                                                        <!-- <li><a href="frontpage">Blog</a></li> -->
                                                     </ul>
                                                 </li>
                                                 <!-- <li><a href="login">Log in</a></li> -->
@@ -115,11 +115,14 @@
                 <div class="row">
                     <div class="col-lg-8 mb-5 mb-lg-0">
                         <div class="blog_left_sidebar">
-
+                            
+                            <!-- {% block content %} -->
+                                
+                            <!-- {% endblock %} -->
 
                           <!-- first blog post  -->
 
-
+                          
 
 
                             <!-- <article class="blog_item">
@@ -142,9 +145,70 @@
                                     </ul>
                                 </div>
                             </article> -->
+                            <div class="abc">
+                            {% for post in posts %}
+                             <div class="post block">
+                              <h2 class="subtitle">{{ post.title }}</h2>
+
+                              <small>Posted at {{ post.date_added }}</small>
+
+                              <p>{{ post.intro }}</p>
+                             Read more-> <a href="{% url 'post_detail' post.slug %}">Read more</a><-this
+                              </div>
+                            {% endfor %}
+                            </div>
 
 
 
+
+
+
+                            <div class="abs">
+                                    <h1 class="title">{{ post.title }}</h1>
+
+                                        <small>Posted at {{ post.date_added }}</small>
+
+                                        <p><strong>{{ post.intro }}</strong></p>
+
+                                        <p>{{ post.body }}</p>
+                                        <hr>
+
+                                    <h2 class="subtitle">Comments</h2>
+
+                                    {% for comment in post.comments.all %}
+                                        <article class="media">
+                                            <div class="media-content">
+                                                <div class="content">
+                                                    <p>
+                                                        <strong>{{ comment.name }}</strong> <small>{{ comment.date_added|timesince }} ago</small>
+                                                        <br>
+                                                        {{ comment.body }}
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </article>
+                                    {% empty %}
+                                        <div class="notification">
+                                            No comments yet...
+                                        </div>
+                                    {% endfor %}
+
+                                        <hr>
+
+                                        <h2 class="subtitle">Add comment</h2>
+
+                                        <form method="post" action="#">
+                                            {% csrf_token %}
+
+                                            {{ form.as_p }}
+
+                                            <div class="field">
+                                                <div class="control">
+                                                    <button class="button is-success">Submit</button>
+                                                </div>
+                                            </div>
+                                        </form>
+                            </div>
 
 
                             <!-- below item is a reference when done please delete it  -->
@@ -253,6 +317,7 @@
                                     </li>
                                 </ul>
                             </nav> -->
+                            
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -479,7 +544,7 @@
                     <div class="col-xl-12 ">
                         <div class="footer-copy-right text-center">
                             <p><!-- bottom line -->
-                              <script>document.write(new Date().getFullYear());</script> This WebSite is a college project by <i class="fa fa-heart" aria-hidden="true"> Group number- 21</i></br>
+                              <script>document.write(new Date().getFullYear());</script> This WebSite is a college project by <i class="fa fa-heart" aria-hidden="true"> Group number- 19</i></br>
                               <!-- bottom fields --></p>
                           </div>
                       </div>

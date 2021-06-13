@@ -1,0 +1,514 @@
+Timestamp,Username,Age,Email,Number of Jobs Performed,Number of Skills Added,Gender,Location
+4/13/2021 11:11:45,Ramesh singh,22,ramesh.1111249@gmail.com,0,2,Male,Others
+4/13/2021 11:13:41,ram,21,ram@gmail.com,2,2,Male,Others
+4/13/2021 11:14:13,krram,20,kr@gmail.com,1,1,Male,Durg
+4/13/2021 11:15:21,aaisia,20,aisa14@example.com,2,5,Male,Durg
+4/13/2021 11:16:11,pintu,19,pk@gmail.com,7,6,Male,Raipur
+4/13/2021 11:17:02,rajesh kumar,22,rajesh1212@gmail.com,2,3,Male,Bhilai
+4/13/2021 11:17:08,pkkr,18,pkkr@gmail.com,6,6,Female,Bhilai
+4/13/2021 11:17:55,pkiy,18,pkiy@gmail.com,4,4,Others,Bhilai
+4/13/2021 11:17:59,ramgopal gupta,19,ramgopa12@gmail.com,0,2,Male,Raipur
+4/13/2021 11:19:45,rahul shukla,21,rahulshukla@gmail.com,2,4,Male,Bhilai
+4/13/2021 11:21:19,rajkumar singh,20,rajkumar121@gmail.com,2,3,Male,Others
+4/13/2021 11:22:43,Jasmi Dhami,18,jasmidhami@gmail.com,1,2,Female,Others
+4/13/2021 11:22:43,komal gupta,24,komalgupta87@gmail.com,2,6,Female,Durg
+4/13/2021 11:24:42,pinky ekka,24,pinkyekka@gmail.com,1,3,Female,Raipur
+4/13/2021 11:25:51,payal sharma,21,payal1998@gmail.com,2,5,Female,Bhilai
+4/13/2021 11:26:55,alok singh,22,singh123@gmail.com,2,1,Male,Bhilai
+4/13/2021 11:28:18,aman singh,17,aman124@gmail.com,1,2,Male,Durg
+4/13/2021 11:31:52,tushar kumar,30,tushar30@gmail.com,2,3,Male,Durg
+4/13/2021 11:33:21,yash kumar,28,yash212@gmail.com,2,1,Male,Others
+4/13/2021 11:34:36,sangita panday,24,panday2121@gmail.com,3,2,Female,Durg
+4/13/2021 11:36:05,krishna singh,21,singh1009@gmail.com,2,4,Male,Bhilai
+4/13/2021 11:36:46,Ujju,21,ujjawal75871@gmail.com,5,2,Male,Others
+4/13/2021 11:37:56,Mehul,21,mehul@gmail.com,3,1,Male,Bhilai
+4/13/2021 11:38:22,Gaurav,21,gaurav11@gmail.com,2,9,Male,Durg
+4/13/2021 11:38:57,shreya,21,shreyakhangan@gmail.com,2,2,Female,Bhilai
+4/13/2021 11:42:08,mohit gupta,29,mohitgupta124@gmail.com,3,6,Male,Raipur
+4/13/2021 11:43:42,shilpa sahu,23,shilpasahu27@gmail.com,4,3,Female,Durg
+4/13/2021 11:44:40,supriya ahir,22,supriya1998@gmail.com,4,3,Female,Durg
+4/13/2021 11:45:52,ansh panday,24,anshpanday101@gmail.com,4,5,Male,Bhilai
+4/13/2021 11:46:55,kumar gupta,19,gupta32@gmail.com,3,2,Male,Durg
+4/13/2021 11:47:56,joy singh,23,joyjoy123@gmail.com,3,3,Male,Raipur
+4/13/2021 11:48:19,Pranjal Chandrakar,21,pranjal.chandrakar123@outlook.com,5,2,Male,Durg
+4/13/2021 11:52:02,aadi verma,23,aadiverma169@gmail.com,4,6,Male,Raipur
+4/13/2021 11:52:43,balram das,18,balramdas21@gmail.com,2,4,Male,Bhilai
+4/13/2021 11:53:29,shivem sahu,19,shivem2121@gmail.com,3,1,Male,Durg
+4/13/2021 11:54:15,sds,100,wewe@gmail.com,99,99,Male,Raipur
+4/13/2021 11:54:18,yogesh verma,24,yogeshverma78@gmail.com,6,2,Male,Raipur
+4/13/2021 11:55:19,abdul khan,31,abdulkhan786@gmail.com,6,7,Male,Bhilai
+4/13/2021 11:56:13,rupa kumari,26,rupakumari45@gmail.com,4,7,Female,Durg
+4/13/2021 11:57:07,avi sahu,22,aviavi23@gmail.com,4,1,Male,Durg
+4/13/2021 11:57:51,ayush soni,21,soniayush98@gmail.com,2,1,Male,Others
+4/13/2021 11:59:49,madhu tiwari,43,tiwari234@gmail.com,7,16,Female,Raipur
+4/13/2021 12:00:49,ajju gupta,29,ajjugupta6576@gmail.com,3,4,Male,Durg
+4/13/2021 12:02:11,jyoti singh,21,jyoti90090@gmail.com,2,1,Female,Raipur
+4/13/2021 12:03:51,ayaan soni,18,ayaan1234@gmail.com,3,1,Male,Durg
+4/13/2021 12:05:33,daksh singh,21,dssingh007@gmail.com,2,1,Male,Raipur
+4/13/2021 12:07:39,dev panday,18,devpanday101@gmail.com,2,3,Male,Bhilai
+4/13/2021 12:08:44,farhan khan,27,farhan7867@gmail.com,7,2,Male,Durg
+4/13/2021 12:09:33,gautam kumar,31,gautam78@gmail.com,4,3,Male,Raipur
+4/13/2021 12:10:16,shiv kumar,18,shivkumar56@gmail.com,4,2,Male,Durg
+4/13/2021 12:11:11,Mahi,23,mahendrapatel199821@gmail.com,4,4,Male,Bhilai
+4/13/2021 12:11:11,hitesh verma,22,hiteshverma24@gmail.com,4,5,Male,Bhilai
+4/13/2021 12:11:58,ishaan singh,19,ishaan123@gmail.com,1,4,Male,Durg
+4/13/2021 12:12:54,harsh kumar,24,harshkumar28@gmail.com,4,6,Male,Raipur
+4/13/2021 12:13:52,astha singh,22,asthasingh190@gmail.com,2,3,Female,Durg
+4/13/2021 12:15:00,govinda sahu,25,govinda125@gmail.com,7,3,Male,Durg
+4/13/2021 12:16:10,rani panday,19,rani120@gmail.com,4,5,Male,Raipur
+4/13/2021 12:16:22,Shila_jawan,19,shilakijawani@example.com,1,4,Female,Durg
+4/13/2021 12:16:59,jagdish shukla,24,jagdish009@gmail.com,3,1,Male,Raipur
+4/13/2021 12:17:53,ikbal haq,19,ikbalhaq678@gmail.com,4,2,Male,Durg
+4/13/2021 12:18:40,jason ekka,21,jasonekka73@gmail.com,4,3,Male,Bhilai
+4/13/2021 12:19:32,jagat sahu,31,jagat7878@gmail.com,1,2,Male,Bhilai
+4/13/2021 12:20:24,krish soni,23,krish1289@gmail.com,9,4,Male,Durg
+4/13/2021 12:21:13,jairaj kumar,32,jk19808@gmail.com,3,2,Male,Durg
+4/13/2021 12:22:02,puja sahu,24,pujasahu34@gmail.com,2,1,Female,Bhilai
+4/13/2021 12:22:56,kabir sahu,26,kabirkabir45@gmail.com,3,1,Male,Bhilai
+4/13/2021 12:23:32,jeet singh,23,jeet1245@gmail.com,4,3,Male,Durg
+4/13/2021 12:24:16,karan soni ,23,karan12345@gmail.com,0,2,Male,Durg
+4/13/2021 12:25:44,jatin jain,27,jatinjain76@gmail.com,4,1,Male,Raipur
+4/13/2021 12:26:40,laksh sahu,21,lakshsahu56@gmail.com,5,2,Male,Raipur
+4/13/2021 12:27:25,madhav gupta,17,guptam124@gmail.com,0,1,Male,Durg
+4/13/2021 12:28:12,lucky gupta,31,lucky145@gmail.com,6,2,Male,Raipur
+4/13/2021 12:28:55,meena kumari,21,meenakumari1@gmail.com,4,3,Female,Durg
+4/13/2021 12:29:50,mohan singh ,17,mohan4567@gmail.com,3,2,Male,Bhilai
+4/13/2021 12:30:49,mohammed khan,27,md1290@gmail.com,9,8,Male,Raipur
+4/13/2021 12:31:43,neel verma,29,verma24@gmail.com,1,2,Male,Durg
+4/13/2021 12:32:30,om sahu,23,omsahu67@gmail.com,6,4,Male,Durg
+4/13/2021 12:33:10,rachit dubey,22,rachit24@gmail.com,5,2,Male,Durg
+4/13/2021 12:33:29,raandi,20,rraandisoo12@example.com,0,5,Female,Others
+4/13/2021 12:34:00,omkaar sai,35,omkaar45@gmail.com,7,4,Male,Bhilai
+4/13/2021 12:34:41,parth roy,29,parthroy29@gmail.com,4,1,Male,Durg
+4/13/2021 12:35:28,ranveer soni,22,soni123@gmail.com,4,1,Male,Raipur
+4/13/2021 12:36:07,sai kumar,23,saikaumar21@gmail.com,5,2,Male,Raipur
+4/13/2021 12:36:53,gunjan sahu,32,gunjansahu32@gmail.com,4,3,Female,Bhilai
+4/13/2021 12:37:43,ryan singh,23,ryan29@gmail.com,3,1,Male,Bhilai
+4/13/2021 12:38:27,tejas yadav,22,tejash12@gmail.com,9,5,Male,Bhilai
+4/13/2021 12:39:45,umang gupta,28,umanggupta41@gmail.com,5,2,Male,Durg
+4/13/2021 12:40:36,veer sahu,21,veer34242@gmail.com,9,8,Male,Raipur
+4/13/2021 12:42:12,yug sahu,23,yugsahu14@gmail.com,4,3,Male,Bhilai
+4/13/2021 12:43:20,gopal kuamr,24,gopal45@gmail.com,3,2,Male,Bhilai
+4/13/2021 12:43:58,suraj soni,23,suraj124@gmail.com,4,2,Male,Raipur
+4/13/2021 12:44:57,charan sahu,28,charn128@gmail.com,2,4,Male,Raipur
+4/13/2021 12:46:07,bumram kumar,32,bumram234@gmail.com,3,2,Male,Bhilai
+4/13/2021 12:47:25,azad khan,17,azadkhan12@gmail.com,2,1,Male,Durg
+4/13/2021 12:48:17,soumya singh,20,soumyasingh@gmail.com,0,1,Female,Others
+4/13/2021 12:52:02,Anish388,22,anish124@gmail.com,2,3,Male,Bhilai
+4/13/2021 12:52:49,Aniket738,22,aniket4@gmail.com,4,3,Male,Raipur
+4/13/2021 12:54:14,Aradhana singh,23,aradhanasingh505@gmail.com,1,3,Female,Others
+4/13/2021 13:03:32,Bhaggggbsdk,99,gaandkeandhe@gandu.com,1,1,Others,Durg
+4/13/2021 14:24:19,Ankit Panth,22,ankithp@gmail.com,2,3,Male,Raipur
+4/13/2021 14:24:55,Arun Prakash,21,arun1234@gmail.com,1,1,Male,Raipur
+4/22/2021 16:28:24,Kpktam,18,kpkt@gmail.com,0,3,Others,Others
+4/22/2021 16:29:00,Funny,17,Jay@gmail.com,4,5,Female,Bhilai
+4/22/2021 16:29:45,Karot,19,trkb@gmail.com,2,4,Male,Bhilai
+4/22/2021 16:31:14,Ravik,18,rkm@gail.com,5,9,Male,Durg
+4/22/2021 16:31:49,Rasel,15,thank@gmail.com,5,7,Male,Raipur
+4/22/2021 16:32:25,Tech,19,RBI@gmail.com,6,4,Female,Durg
+4/22/2021 16:33:15,Valo,20,eki@gmail.com,4,6,Others,Bhilai
+4/22/2021 16:34:46,This,28,ekdam@gmail.com,5,6,Female,Raipur
+4/22/2021 16:35:29,Pro,38,uzzal@gmail.com,3,5,Male,Bhilai
+4/22/2021 16:36:04,Ross,51,eBay@gmail.com,5,5,Male,Others
+4/22/2021 16:36:52,YSL,45,they@yahu.com,6,5,Others,Durg
+4/22/2021 16:37:24,See,32,exam@gmail.com,4,6,Male,Bhilai
+4/22/2021 16:57:12,Rajkumar,19,rajkumar11@gmail.com,5,3,Male,Durg
+4/22/2021 16:57:58,Gutam gupta ,21,gutamgupta90@gmail.com,3,3,Male,Raipur
+4/22/2021 16:59:04,Trimurti singh,22,trimurti1212@gmail.com,4,2,Male,Bhilai
+4/22/2021 16:59:46,Aman sahu,18,amansahu133@gmail.com,6,4,Male,Bhilai
+4/22/2021 17:00:51,Simran singh,21,simransingh0@gmail.com,4,2,Female,Durg
+4/22/2021 17:01:37,Abhiman singh,24,abhimansingh89@gmail.com,7,4,Male,Durg
+4/22/2021 17:02:10,Man singh,22,mansingh19@gmail.com,6,4,Male,Durg
+4/22/2021 17:02:51,Golu gupta ,31,golugupta@gmail.com,6,3,Male,Raipur
+4/22/2021 17:03:45,Kartik sahu,21,kartiksahu12@gmail.com,5,4,Male,Bhilai
+4/22/2021 17:04:22,Pooja gupta ,19,poojagupta19@gmail.com,2,2,Female,Raipur
+4/22/2021 17:05:05,Pari singh,20,parisingh20@gmail.com,5,3,Female,Durg
+4/22/2021 17:05:40,Ashu verma ,27,ashuverma234@gmail.com,4,4,Male,Raipur
+4/22/2021 17:06:15,Mijaj khan ,24,mijajkhan78@gmail.com,1,1,Male,Bhilai
+4/22/2021 17:06:49,Palak singh,21,palaksingh12@gmail.com,3,3,Female,Bhilai
+4/22/2021 17:07:30,Ravi kumar ,26,ravikumar211@gmail.com,2,2,Male,Durg
+4/22/2021 17:08:07,Amit sahu,28,amitsahu28@gmail.com,5,4,Male,Bhilai
+4/22/2021 17:08:49,Prakhar singh,22,prakharsingh12@gmail.com,5,4,Male,Raipur
+4/22/2021 17:09:37,Pushpa sahu,21,pushpa1231@gmail.com,5,5,Female,Durg
+4/22/2021 17:10:14,Arvind bhagat,26,arvind12@gmail.com,4,2,Male,Durg
+4/22/2021 17:10:58,Sonu gupta ,20,sonugupta90@gmail.com,5,5,Male,Bhilai
+4/22/2021 17:11:37,Tinku singh,24,tinku12@gmail.com,3,3,Male,Raipur
+4/22/2021 17:12:21,Salman khan,29,salmankhan29@gmail.com,5,4,Male,Raipur
+4/22/2021 17:13:18,Soumya singh,20,soumyasingh11@gmail.com,3,2,Female,Raipur
+4/22/2021 17:14:03,Manoj gupta ,19,manojgupta@gmail.com,2,2,Male,Durg
+4/22/2021 17:14:56,Komal sahu ,21,komalsahu21@gmail.com,7,5,Male,Bhilai
+4/22/2021 17:16:17,Sachin verma,18,sachinverma@gmail.com,4,3,Male,Bhilai
+4/22/2021 17:16:55,Nida khan,20,nidakhan1998@gmail.com,3,2,Female,Bhilai
+4/22/2021 17:18:21,Kajal singh,20,kajalsingh@gmail.com,2,1,Female,Raipur
+4/22/2021 17:19:18,Haldiram gupta ,22,haldiramgupta@gmail.com,4,4,Male,Durg
+4/22/2021 17:20:10,Sanjay singh,27,sanjaysingh27@gmail.com,4,3,Male,Durg
+4/22/2021 17:21:36,Sunil sahu,23,sunilsahu@gmail.com,4,3,Male,Raipur
+4/22/2021 17:22:34,Soniya verma ,21,soniyaverma@gmail.com,2,1,Female,Raipur
+4/22/2021 17:23:42,Kavita sahu,19,kavitasahu@gmail.com,2,2,Female,Durg
+4/22/2021 17:24:29,Vijay ravi,21,vijayravi@gmail.com,2,1,Male,Durg
+4/22/2021 17:25:50,Ravishankar singh,21,ravishankar@gmail.com,6,4,Male,Raipur
+4/22/2021 17:27:25,Anmol verma,22,anmolverma@gmail.com,4,3,Male,Durg
+4/22/2021 17:27:58,Tushar singh,24,tushar133@gmail.com,4,3,Male,Raipur
+4/22/2021 17:30:14,Amog singh,19,amogsingh@gmail.com,3,2,Male,Durg
+4/22/2021 17:30:54,Sanu gupta ,25,sanugupta@gmail.com,5,4,Male,Bhilai
+4/22/2021 17:31:41,Alok singh,22,aloksingh@gmail.com,2,2,Male,Raipur
+4/22/2021 17:32:28,Kamini sahu,20,kaminisahu98@gmail.com,6,4,Female,Durg
+4/22/2021 17:33:02,Vishal ekka ,23,vishalekka@gmail.com,3,2,Male,Bhilai
+4/22/2021 17:33:35,Ramraj sahu,24,ramrajsahu@gmail.com,3,2,Male,Raipur
+4/22/2021 17:34:05,Sameer khan,23,sameerkhan@gmail.com,4,4,Male,Bhilai
+4/22/2021 17:34:34,Vicky sahu,22,vickysahu123@gmail.com,2,2,Male,Durg
+4/22/2021 17:35:12,Priya gupta,21,priyagupta@gmail.com,3,2,Female,Raipur
+4/22/2021 17:35:59,Yamini gupta,22,yaminigupta@gmail.com,5,4,Female,Raipur
+4/22/2021 17:36:33,Prabha singh,21,prabhasingh23@gmail.com,3,2,Female,Raipur
+4/22/2021 17:37:11,Rina singh,19,rinasingh@gmail.com,2,1,Female,Raipur
+4/22/2021 17:37:51,Vikarm singh,23,vikarmsingh89@gmail.com,3,2,Male,Durg
+4/22/2021 17:38:33,Alex xaxa ,19,alexxaxa@gmail.com,2,1,Male,Raipur
+4/22/2021 17:39:17,Lakhan ram ,26,lakhanram@gmail.com,6,4,Male,Durg
+4/22/2021 17:39:46,Bhuwan sahu,25,bhuwansahu@gmail.com,3,2,Male,Raipur
+4/22/2021 17:40:42,Dharma singh,27,dharmasingh@gmail.com,3,2,Male,Raipur
+4/22/2021 17:41:34,Chiku gupta ,26,chikugupta@gmail.com,6,3,Male,Bhilai
+4/22/2021 17:42:11,Safi khan,23,safikhan@gmail.com,3,2,Male,Bhilai
+4/22/2021 17:43:23,Karan singh,27,karansingh@gmail.com,2,2,Male,Raipur
+4/22/2021 17:46:32,Karan singh,27,karansingh@gmail.com,2,2,Male,Raipur
+4/22/2021 17:47:56,Vishu singh,29,vishusingh@gmail.com,4,3,Male,Bhilai
+4/22/2021 17:49:56,Pawan singh,22,pawansingh@gmail.com,2,1,Male,Raipur
+4/22/2021 17:51:27,Ramu kumar ,21,ramukumar@gmail.com,6,4,Male,Durg
+4/22/2021 17:52:08,Clark,25,clark@gmail.com,5,2,Male,Others
+4/22/2021 17:52:17,Vinay kumar  ,21,vinaykumar@gmail.com,2,1,Male,Raipur
+4/22/2021 17:52:52,Kaju singh,28,kajusingh@gmail.com,5,4,Male,Raipur
+4/22/2021 17:53:30,Kamalkant sain ,23,kamalkantsain@gmail.com,4,2,Male,Raipur
+4/22/2021 17:53:30,Clara,26,clara@yahoo.com,8,6,Female,Others
+4/22/2021 17:53:32,Krishna Yadav,23,kyadav1234@gmail.com,4,2,Male,Bhilai
+4/22/2021 17:54:07,Jasmin singh,23,jasminsingh@gmail.com,3,2,Female,Bhilai
+4/22/2021 17:54:49,Chansi singh,19,chansisingh@gmail.com,7,5,Female,Durg
+4/22/2021 17:54:57,Chotu,25,chotu@gmail.com,6,4,Male,Durg
+4/22/2021 17:55:15,Gaurav gupta ,19,gauravgupta@gmail.com,1,1,Male,Durg
+4/22/2021 17:55:23,Kitu jaiswal,22,kitujaiswal@gmail.com,4,3,Female,Durg
+4/22/2021 17:55:56,Bablu gupta ,22,bablugupta@gmail.com,3,2,Male,Raipur
+4/22/2021 17:56:07,Abhay singh,25,Abhaysingh@gmail.com,2,1,Male,Durg
+4/22/2021 17:56:11,Chadu,28,chadu123@gmail.com,8,6,Male,Bhilai
+4/22/2021 17:57:07,Chinkle,26,chinkal@yahoo.com,5,4,Male,Durg
+4/22/2021 17:57:10,Minu sahu,23,minusahu@gmail.com,5,4,Female,Raipur
+4/22/2021 17:57:16,Priya sharma,26,psharma5426@gmail.com,3,2,Female,Raipur
+4/22/2021 17:57:47,Anni singh,22,annisingh@gmail.com,2,2,Female,Bhilai
+4/22/2021 17:58:13,Dhanram,27,dhanram@gmail.com,10,8,Male,Raipur
+4/22/2021 17:58:16,Nil kumar,29,nilkumar@gmail.com,2,1,Male,Raipur
+4/22/2021 17:58:29,Radha swami,24,Radhaswami@gmail.com,3,2,Female,Bhilai
+4/22/2021 17:58:51,Gulam,26,gulam@gmail.com,5,4,Male,Raipur
+4/22/2021 17:59:15,Salu gupta,26,salugupta@gmail.com,6,4,Female,Raipur
+4/22/2021 17:59:28,Sara,26,sara12@gmail.com,5,4,Female,Bhilai
+4/22/2021 17:59:42,Renu ekka,21,ekkarenu@gmail.com,1,1,Female,Raipur
+4/22/2021 17:59:47,YSL,18,kal@gmail.com,5,6,Male,Bhilai
+4/22/2021 17:59:54,Tara singh,25,tarasingh@gmail.com,4,3,Female,Bhilai
+4/22/2021 18:00:11,Tinkle,25,tinkle@gmail.com,10,8,Female,Others
+4/22/2021 18:00:28,Vikash singh,25,vikashsingh@gmail.com,5,4,Male,Durg
+4/22/2021 18:00:33,Tech,21,tech@gmail.com,4,7,Others,Raipur
+4/22/2021 18:01:01,Govind kumar,29,Govindkumar@gmail.com,4,3,Male,Bhilai
+4/22/2021 18:01:14,Sia,26,sia123@gmail.com,6,6,Female,Others
+4/22/2021 18:01:25,Bajirao kumar,23,bajiraokumar@gmail.com,2,1,Male,Raipur
+4/22/2021 18:02:31,Tim,27,tim@gmail.com,8,6,Male,Others
+4/22/2021 18:02:35,Pihu singh,24,pihusingh@gmail.com,2,1,Female,Raipur
+4/22/2021 18:02:59,Chhavi kumari,27,Chhavikumari@gmail.com,5,3,Female,Bhilai
+4/22/2021 18:03:31,Rahul singh,21,rahulsingh@gmail.com,3,2,Male,Raipur
+4/22/2021 18:04:02,Lark,24,lark12@gmail.com,5,4,Male,Durg
+4/22/2021 18:04:02,Balu kumar,22,balukumar@gmail.com,2,2,Male,Durg
+4/22/2021 18:04:38,Banu ram,23,banuram12@gmail.com,3,3,Male,Bhilai
+4/22/2021 18:04:42,Sim,26,sim@gmail.com,7,4,Male,Bhilai
+4/22/2021 18:05:10,Kavi singh,23,kavisingh@gmail.com,5,4,Female,Raipur
+4/22/2021 18:05:11,Aalok gupta,25,guptaAalok8888@gmail.com,3,3,Male,Raipur
+4/22/2021 18:05:35,Amit,28,amit@gmail.com,5,4,Male,Bhilai
+4/22/2021 18:06:23,Raju shrivastav,25,raju32444@gmail.com,4,2,Male,Durg
+4/22/2021 18:06:32,Manti,27,manti@gmail.com,5,3,Male,Raipur
+4/22/2021 18:06:47,Reeta kumari,24,reetakumari@gmail.com,2,2,Female,Raipur
+4/22/2021 18:07:01,Every,31,tech@yahhu.com,6,8,Female,Bhilai
+4/22/2021 18:07:13,Gina,24,gina123@gmail.com,8,5,Female,Others
+4/22/2021 18:07:29,Ram desai,28,ramdesai@gmail.com,5,3,Male,Bhilai
+4/22/2021 18:07:30,Op tiwari,23,optiwari231@gmail.com,3,2,Male,Bhilai
+4/22/2021 18:08:24,Venom,24,venom@gmail.com,5,3,Male,Others
+4/22/2021 18:09:13,Balaram sahu,21,balaramsahu@gmail.com,3,2,Male,Bhilai
+4/22/2021 18:10:16,Kamla devi,23,kamladevi@gmail.com,4,3,Female,Bhilai
+4/22/2021 18:10:17,Osru,20,RJ@gmail.com,2,5,Male,Durg
+4/22/2021 18:10:20,Peter,26,peter123@gmail.com,5,4,Male,Others
+4/22/2021 18:11:01,Sita yadav ,28,sita916824@gmail.com,6,3,Female,Bhilai
+4/22/2021 18:11:33,Ugh,23,thu@gmail.com,7,8,Male,Durg
+4/22/2021 18:11:41,Hike,27,hike12@gmail.com,8,6,Male,Others
+4/22/2021 18:12:39,Yhi,24,tech@gmail.com,4,4,Male,Bhilai
+4/22/2021 18:12:47,Jonny,26,jonny@gmail.com,5,3,Male,Others
+4/22/2021 18:13:10,Tanu gupta ,23,tanugupta@gmail.com,3,2,Female,Raipur
+4/22/2021 18:13:48,Kal,24,haa@gmail.cpm,4,4,Male,Durg
+4/22/2021 18:13:56,Rabiya khan,27,rabiyakhan@gmail.com,2,1,Female,Durg
+4/22/2021 18:14:37,Tech,24,than@gmail.com,4,4,Male,Raipur
+4/22/2021 18:14:57,Indar singh,24,indarsingh@gmail.com,4,3,Male,Bhilai
+4/22/2021 18:15:21,Exam,23,rah@gmail.cjm,4,4,Male,Durg
+4/22/2021 18:15:33,Kalpana singh,25,kalpanasingh@gmail.com,5,4,Female,Bhilai
+4/22/2021 18:15:53,Tech,24,rah@gma.com,4,4,Male,Durg
+4/22/2021 18:16:27,Tech,24,exam@gmail.xom,4,4,Male,Bhilai
+4/22/2021 18:16:30,Anil kumar ,24,anilkumar@gmail.com,5,4,Male,Raipur
+4/22/2021 18:16:58,Ladu babu,23,ladubabu@gmail.com,2,2,Male,Raipur
+4/22/2021 18:17:56,Tech,23,tech@gmail.xom,4,4,Male,Durg
+4/22/2021 18:18:10,Nepal singh,23,nepalsingh@gmail.com,4,3,Male,Raipur
+4/22/2021 18:18:36,Exam,23,tech@gmail.com,4,4,Male,Durg
+4/22/2021 18:18:56,Jasi singh,23,jasisingh@gmail.com,2,2,Female,Bhilai
+4/22/2021 18:20:37,Tulsi Singh,23,tulsisingh@gmail.com,4,3,Female,Bhilai
+4/22/2021 18:20:46,Tech,24,rah@gmail.com,4,4,Male,Durg
+4/22/2021 18:21:24,Rajshri singh,23,rajshrisingh@gmail.com,3,2,Female,Raipur
+4/22/2021 18:21:26,kim,19,kim@gmail.com,7,4,Male,Durg
+4/22/2021 18:21:28,Exam,23,reserved@gmail.com,4,4,Male,Durg
+4/22/2021 18:22:02,Laxmi kumari ,23,laxmikumari@gmail.com,2,1,Female,Raipur
+4/22/2021 18:22:20,finch,26,finch@gmail.com,7,4,Male,Bhilai
+4/22/2021 18:22:23,Rah,23,tu@gmail.com,4,4,Male,Durg
+4/22/2021 18:22:41,Hasmukh Singh,21,hasmukhsingh@gmail.com,4,3,Male,Raipur
+4/22/2021 18:23:08,elon,26,elon12@gmail.com,6,4,Male,Bhilai
+4/22/2021 18:23:40,Abhi singh,28,abhisingh@gmail.com,3,2,Male,Raipur
+4/22/2021 18:23:55,Tech,25,tech@gmail.com,4,4,Male,Durg
+4/22/2021 18:24:05,david,28,david@gmail.com,5,4,Male,Others
+4/22/2021 18:24:20,Maan singh,25,maansingh@gmail.com,4,2,Male,Raipur
+4/22/2021 18:24:36,Rah,24,rah@gmail.com,4,4,Male,Durg
+4/22/2021 18:25:01,linda,26,lina124@gmail.com,4,3,Female,Raipur
+4/22/2021 18:25:08,Pihu Singh,22,pihusingh@gmail.com,2,2,Female,Raipur
+4/22/2021 18:25:18,Tu ye,24,rah@gmail.com,3,3,Male,Durg
+4/22/2021 18:25:58,TCL,24,YSL@gmail.com,3,3,Male,Bhilai
+4/22/2021 18:26:10,Raju kumar ,23,rajukumar@gmail.com,4,3,Male,Raipur
+4/22/2021 18:26:49,Shyam singh,27,shyamsingh@gmail.com,5,4,Male,Bhilai
+4/22/2021 18:27:19,Raj kumar,21,raj123ku@gmail.com,1,1,Male,Raipur
+4/22/2021 18:28:03,Lala ram ,27,lalaram@gmail.com,4,1,Male,Durg
+4/22/2021 18:28:36,Sourab singh,21,sourab@gmail.com,3,2,Male,Durg
+4/22/2021 18:28:55,Abhiyaan chand,22,chandAbhiyaan@gmail.com,3,1,Male,Durg
+4/22/2021 18:29:19,Babubram ,19,baburam@gmail.com,2,1,Male,Raipur
+4/22/2021 18:29:56,Ravi ram gupta,23,ravilovemom@gmail.com,5,4,Male,Raipur
+4/22/2021 18:30:06,Baby singh,21,babysingh@gmail.com,2,2,Female,Raipur
+4/22/2021 18:31:04,Charli xaxa,19,charlixaxa@gmail.com,3,2,Female,Bhilai
+4/22/2021 18:31:20,Krishna kumar ,25,kkumar9981@gmail.com,5,4,Male,Raipur
+4/22/2021 18:31:35,Chaman singh,24,chamansingh@gmail.com,4,3,Male,Durg
+4/22/2021 18:32:12,Ganesh gupta ,26,ganeshgupta@gmail.com,4,3,Male,Bhilai
+4/22/2021 18:32:49,Kuki gupta ,23,kukigupta@gmail.com,6,4,Female,Durg
+4/22/2021 18:32:53,Renu singh,25,renugupta@gmail.com,6,4,Female,Raipur
+4/22/2021 18:33:19,TCL,24,rah@gmail.com,4,4,Male,Durg
+4/22/2021 18:33:39,Bumi Singh,24,bhumisingh@gmail.com,3,3,Female,Raipur
+4/22/2021 18:34:24,Teena singh,21,teenasingh@gmail.com,1,1,Female,Bhilai
+4/22/2021 18:34:27,Rahul ekka ,26,rahulbaba@gmail.com,4,1,Male,Bhilai
+4/22/2021 18:34:29,TCL,24,TCL@gmail.com,3,3,Male,Durg
+4/22/2021 18:35:01,TCL,24,TCL@gmail.com,3,3,Male,Durg
+4/22/2021 18:35:38,TCL,24,rah@gmail.xom,3,3,Male,Bhilai
+4/22/2021 18:36:16,Rah,24,rah@gmail.com,3,3,Male,Durg
+4/22/2021 18:41:44,Rah,24,TCL@gmail.com,3,3,Male,Durg
+4/22/2021 18:45:33,TCL,24,TCL@gmail.com,3,3,Male,Durg
+4/22/2021 18:50:56,Every,24,YSL@gmail.xom,3,3,Male,Durg
+4/22/2021 19:24:42,TCL,24,TCL@gmail.com,3,3,Male,Durg
+4/22/2021 19:25:13,Rah,24,tech@gmail.com,3,3,Male,Durg
+4/22/2021 19:27:33,TCL,24,rah@gmail.com,3,3,Male,Durg
+4/22/2021 19:28:05,Rah,24,rah@gmail.com,3,3,Male,Durg
+4/22/2021 19:28:31,Rah,23,rah@gmail.com,3,3,Male,Durg
+4/22/2021 19:30:04,Reset,23,tech@gmail.com,3,3,Male,Durg
+4/22/2021 19:53:11,Tech,24,kyu@gmail.com,3,3,Male,Durg
+4/22/2021 19:54:03,Rah,23,reset@gmail.com,2,2,Male,Durg
+4/22/2021 19:54:37,Oeahahkd,23,YSL@gmail.com,2,2,Male,Durg
+4/22/2021 19:57:50,Oeiejw,23,egg@gmail.com,2,2,Male,Durg
+4/22/2021 22:03:43,,17,,0,1,Others,Durg
+4/22/2021 22:07:34,,18,,7,10,Female,Bhilai
+4/22/2021 22:10:57,,18,,1,1,Male,Durg
+4/22/2021 22:11:19,,18,,2,1,Male,Bhilai
+4/22/2021 22:21:25,,20,,15,9,Female,Others
+4/22/2021 22:59:31,,20,,20,10,Others,Others
+4/22/2021 23:00:25,,19,,3,2,Male,Bhilai
+4/22/2021 23:02:13,,19,,4,3,Male,Raipur
+4/22/2021 23:02:47,,19,,5,4,Female,Raipur
+4/22/2021 23:03:28,,19,,6,5,Male,Durg
+4/22/2021 23:03:43,,19,,7,6,Female,Bhilai
+4/22/2021 23:04:47,,19,,8,7,Male,Raipur
+4/22/2021 23:05:35,,19,,9,8,Male,Raipur
+4/22/2021 23:06:08,,19,,10,9,Male,Durg
+4/23/2021 7:08:15,,20,,1,1,Male,Durg
+4/23/2021 7:08:30,,20,,2,1,Female,Bhilai
+4/23/2021 7:08:45,,20,,3,2,Male,Raipur
+4/23/2021 7:09:02,,20,,4,3,Male,Durg
+4/23/2021 7:09:17,,20,,5,4,Male,Raipur
+4/23/2021 7:09:31,,20,,6,5,Female,Bhilai
+4/23/2021 7:09:48,,20,,7,6,Male,Durg
+4/23/2021 7:10:06,,20,,9,7,Male,Bhilai
+4/23/2021 7:10:34,,21,,1,1,Male,Durg
+4/23/2021 7:10:57,,21,,2,1,Male,Bhilai
+4/23/2021 7:11:13,,21,,3,2,Female,Raipur
+4/23/2021 7:11:44,,21,,3,2,Male,Raipur
+4/23/2021 7:12:00,,21,,4,3,Male,Durg
+4/23/2021 7:12:17,,21,,5,4,Male,Raipur
+4/23/2021 7:12:32,,21,,6,4,Male,Bhilai
+4/23/2021 7:12:47,,21,,7,5,Female,Bhilai
+4/23/2021 7:13:04,,21,,8,6,Male,Durg
+4/23/2021 7:13:20,,21,,9,7,Male,Raipur
+4/23/2021 7:13:37,,21,,2,2,Male,Durg
+4/23/2021 7:13:58,,21,,3,4,Male,Bhilai
+4/23/2021 7:14:23,,21,,4,1,Male,Raipur
+4/23/2021 7:14:51,,21,,6,5,Male,Bhilai
+4/23/2021 7:15:11,,21,,9,8,Male,Raipur
+4/23/2021 7:15:35,,21,,8,7,Female,Durg
+4/23/2021 7:18:38,,21,,8,7,Female,Durg
+4/23/2021 7:18:55,,21,,9,8,Female,Durg
+4/23/2021 7:19:08,,22,,1,1,Male,Raipur
+4/23/2021 7:19:24,,22,,2,1,Male,Bhilai
+4/23/2021 7:19:39,,21,,3,1,Male,Durg
+4/23/2021 7:19:57,,22,,4,2,Male,Durg
+4/23/2021 7:20:13,,22,,5,3,Male,Bhilai
+4/23/2021 7:20:29,,22,,6,4,Male,Bhilai
+4/23/2021 7:20:44,,22,,6,4,Male,Bhilai
+4/23/2021 7:21:03,,22,,7,5,Female,Bhilai
+4/23/2021 7:21:20,,22,,8,6,Female,Durg
+4/23/2021 7:21:34,,22,,9,7,Male,Durg
+4/23/2021 7:21:54,,22,,10,8,Female,Raipur
+4/23/2021 7:22:13,,22,,4,4,Male,Bhilai
+4/23/2021 7:22:30,,22,,2,2,Male,Bhilai
+4/23/2021 7:22:49,,22,,3,3,Male,Bhilai
+4/23/2021 7:23:11,,22,,4,4,Female,Durg
+4/23/2021 7:23:51,,22,,7,2,Male,Raipur
+4/23/2021 7:24:11,,22,,9,9,Female,Durg
+4/23/2021 7:24:31,,22,,8,7,Female,Bhilai
+4/23/2021 7:24:53,,23,,1,1,Male,Durg
+4/23/2021 7:25:14,,23,,2,1,Male,Bhilai
+4/23/2021 7:25:26,,23,,3,1,Male,Raipur
+4/23/2021 7:25:43,,23,,4,1,Female,Bhilai
+4/23/2021 7:25:59,,23,,5,1,Male,Durg
+4/23/2021 7:26:20,,23,,5,1,Male,Durg
+4/23/2021 7:26:43,,23,,2,2,Male,Raipur
+4/23/2021 7:26:58,,23,,3,2,Male,Raipur
+4/23/2021 7:27:18,,22,,4,2,Male,Bhilai
+4/23/2021 7:27:33,,23,,5,2,Female,Bhilai
+4/23/2021 7:27:51,,23,,6,2,Female,Raipur
+4/23/2021 7:28:13,,23,,6,2,Male,Bhilai
+4/23/2021 7:28:29,,23,,3,3,Male,Durg
+4/23/2021 7:28:53,,23,,3,3,Female,Raipur
+4/23/2021 7:29:11,,23,,4,3,Male,Bhilai
+4/23/2021 7:29:31,,23,,5,3,Male,Raipur
+4/23/2021 7:30:21,,23,,6,3,Male,Raipur
+4/23/2021 7:30:37,,23,,7,3,Male,Bhilai
+4/23/2021 7:30:52,,23,,8,3,Male,Bhilai
+4/23/2021 7:31:07,,23,,9,3,Female,Bhilai
+4/23/2021 7:31:22,,23,,4,4,Male,Bhilai
+4/23/2021 7:31:39,,23,,5,4,Male,Durg
+4/23/2021 7:31:56,,23,,6,4,Male,Bhilai
+4/23/2021 7:32:09,,23,,6,4,Male,Raipur
+4/23/2021 7:32:27,,23,,7,4,Female,Bhilai
+4/23/2021 7:32:42,,23,,8,4,Female,Durg
+4/23/2021 7:33:05,,23,,9,4,Female,Bhilai
+4/23/2021 7:33:44,,23,,5,5,Male,Raipur
+4/23/2021 7:34:00,,23,,6,5,Female,Durg
+4/23/2021 7:34:28,,7,,7,5,Male,Durg
+4/23/2021 7:34:44,,23,,8,5,Female,Durg
+4/23/2021 7:34:59,,23,,9,5,Male,Bhilai
+4/23/2021 7:35:19,,24,,1,1,Male,Durg
+4/23/2021 7:35:35,,24,,2,1,Female,Bhilai
+4/23/2021 7:35:53,,24,,3,1,Female,Raipur
+4/23/2021 7:36:13,,24,,4,1,Female,Raipur
+4/23/2021 7:36:27,,24,,2,2,Female,Bhilai
+4/23/2021 7:37:23,,24,,3,2,Female,Raipur
+4/23/2021 7:37:35,,24,,4,2,Male,Raipur
+4/23/2021 7:37:50,,24,,5,2,Male,Bhilai
+4/23/2021 7:38:07,,24,,5,2,Female,Durg
+4/23/2021 7:38:21,,24,,6,2,Male,Bhilai
+4/23/2021 7:38:33,,24,,6,2,Female,Durg
+4/23/2021 7:38:50,,24,,7,2,Male,Bhilai
+4/23/2021 7:39:09,,24,,7,2,Female,Durg
+4/23/2021 7:39:26,,24,,8,2,Male,Raipur
+4/23/2021 7:39:44,,24,,9,2,Male,Bhilai
+4/23/2021 7:40:00,,24,,3,3,Female,Durg
+4/23/2021 7:40:21,,24,,4,3,Male,Bhilai
+4/23/2021 8:11:05,,24,,5,5,Male,Bhilai
+4/23/2021 8:11:32,,24,,6,5,Male,Raipur
+4/23/2021 8:11:47,,24,,7,5,Female,Bhilai
+4/23/2021 8:12:03,,24,,8,5,Female,Durg
+4/23/2021 8:12:21,,24,,9,5,Female,Raipur
+4/23/2021 8:12:35,,24,,6,6,Male,Bhilai
+4/23/2021 8:12:53,,24,,7,6,Male,Raipur
+4/23/2021 8:13:07,,24,,8,6,Male,Bhilai
+4/23/2021 8:13:26,,24,,9,6,Female,Bhilai
+4/23/2021 8:13:42,,24,,7,7,Male,Bhilai
+4/23/2021 8:14:01,,24,,8,7,Male,Bhilai
+4/23/2021 8:14:21,,24,,9,7,Female,Raipur
+4/23/2021 8:14:39,,24,,8,8,Female,Durg
+4/23/2021 8:14:58,,24,,9,8,Male,Bhilai
+4/23/2021 8:15:11,,24,,9,9,Female,Durg
+4/23/2021 8:15:50,,25,,1,1,Male,Durg
+4/23/2021 8:16:07,,25,,2,1,Male,Bhilai
+4/23/2021 8:16:22,,25,,3,2,Female,Raipur
+4/23/2021 8:16:43,,25,,3,2,Female,Raipur
+4/23/2021 8:17:00,,25,,4,2,Female,Durg
+4/23/2021 8:17:21,,25,,3,2,Male,Raipur
+4/23/2021 8:17:46,,25,,4,2,Female,Bhilai
+4/23/2021 8:18:22,,25,,5,2,Female,Durg
+4/23/2021 8:18:37,,25,,6,2,Female,Durg
+4/23/2021 8:18:55,,25,,7,2,Male,Raipur
+4/23/2021 8:19:15,,25,,8,2,Male,Durg
+4/23/2021 8:19:32,,25,,9,2,Female,Raipur
+4/23/2021 8:19:47,,25,,3,3,Male,Durg
+4/23/2021 8:20:03,,25,,4,3,Male,Bhilai
+4/23/2021 8:20:20,,25,,5,3,Male,Durg
+4/23/2021 8:20:37,,25,,3,6,Male,Bhilai
+4/23/2021 8:20:52,,25,,7,3,Female,Durg
+4/23/2021 8:21:24,,25,,8,3,Male,Bhilai
+4/23/2021 8:21:40,,25,,9,3,Male,Bhilai
+4/23/2021 8:22:02,,25,,4,4,Male,Bhilai
+4/23/2021 8:22:17,,25,,5,4,Male,Durg
+4/23/2021 8:22:31,,25,,6,4,Female,Durg
+4/23/2021 8:22:51,,25,,7,4,Male,Durg
+4/23/2021 8:23:09,,25,,8,4,Male,Durg
+4/23/2021 8:23:48,,25,,5,5,Male,Durg
+4/23/2021 8:24:00,,25,,6,5,Male,Raipur
+4/23/2021 8:24:16,,25,,7,5,Male,Bhilai
+4/23/2021 8:24:32,,25,,8,5,Female,Durg
+4/23/2021 8:24:46,,25,,9,5,Male,Durg
+4/23/2021 8:24:58,,26,,1,1,Male,Durg
+4/23/2021 8:25:13,,26,,2,1,Male,Durg
+4/23/2021 8:25:29,,26,,3,1,Female,Durg
+4/23/2021 8:25:44,,26,,4,1,Male,Bhilai
+4/23/2021 8:26:03,,26,,5,1,Female,Durg
+4/23/2021 8:26:49,,26,,2,2,Male,Raipur
+4/23/2021 8:27:04,,26,,3,2,Male,Bhilai
+4/23/2021 8:27:26,,26,,4,2,Female,Durg
+4/23/2021 8:27:49,,26,,5,2,Male,Raipur
+4/23/2021 8:28:44,,26,,6,2,Male,Raipur
+4/23/2021 8:29:01,,26,,7,2,Male,Bhilai
+4/23/2021 8:29:18,,26,,7,2,Male,Bhilai
+4/23/2021 8:29:34,,26,,8,2,Male,Durg
+4/23/2021 8:30:11,,26,,3,3,Male,Durg
+4/23/2021 8:30:28,,26,,4,3,Male,Durg
+4/23/2021 8:30:49,,26,,5,3,Male,Raipur
+4/23/2021 8:32:43,,26,,7,3,Male,Durg
+4/23/2021 8:32:58,,26,,8,3,Male,Bhilai
+4/23/2021 8:33:27,,26,,9,3,Female,Durg
+4/23/2021 8:33:50,,26,,4,4,Male,Durg
+4/23/2021 8:34:06,,26,,5,4,Female,Bhilai
+4/23/2021 8:34:24,,26,,6,4,Male,Raipur
+4/23/2021 8:34:39,,26,,7,4,Male,Raipur
+4/23/2021 8:34:53,,26,,8,4,Female,Raipur
+4/23/2021 8:35:23,,26,,9,4,Female,Durg
+4/23/2021 8:35:37,,26,,6,6,Female,Raipur
+4/23/2021 8:36:18,,26,,7,6,Male,Durg
+4/23/2021 8:37:30,,27,,1,1,Male,Bhilai
+4/23/2021 8:37:49,,27,,2,1,Female,Raipur
+4/23/2021 8:38:04,,27,,3,2,Male,Raipur
+4/23/2021 8:38:16,,27,,4,3,Male,Raipur
+4/23/2021 8:38:28,,27,,5,3,Male,Durg
+4/23/2021 8:38:43,,27,,6,4,Female,Raipur
+4/23/2021 8:39:00,,27,,6,3,Female,Bhilai
+4/23/2021 8:39:25,,27,,7,4,Male,Bhilai
+4/23/2021 8:39:39,,27,,8,4,Male,Raipur
+4/23/2021 8:39:55,,27,,9,6,Male,Bhilai
+4/23/2021 10:40:49,,23,,3,3,Male,Bhilai
+4/23/2021 10:41:15,,23,,1,1,Female,Raipur
+4/23/2021 10:41:40,,23,,2,2,Male,Durg
+4/23/2021 10:41:56,,23,,3,3,Male,Durg
+4/23/2021 10:42:26,,23,,4,4,Male,Durg
+4/23/2021 10:42:44,,23,,5,5,Male,Bhilai
+4/23/2021 10:43:02,,23,,4,4,Male,Durg
+4/23/2021 10:43:18,,23,,3,3,Male,Durg
+4/23/2021 10:44:05,,23,,3,3,Female,Raipur
+4/23/2021 10:44:23,,21,,2,2,Female,Bhilai
+4/23/2021 10:44:41,,22,,2,2,Female,Bhilai
+4/13/2021 11:27:02,Adi,19,adi12@example.com,0,3,Female,Bhilai
+4/13/2021 11:27:08,Suni,19,suni21@example.com,1,7,Female,Durg
+4/13/2021 11:27:55,ramesh ,21,zxy@example.com,1,2,Male,Bhilai
+4/13/2021 11:27:59,rohit kumar,23,rohit12@gmail.com,2,4,Male,Raipur
+4/13/2021 11:29:45,ajay yadav,20,ajay1884@gmai.com,1,1,Male,Others
+4/13/2021 11:31:19,ravi ekka,19,ravi2929@gmail.com,2,2,Male,Others
+4/13/2021 11:32:43,sita sigh,21,sita1919@gmail.com,1,2,Female,Raipur
+4/13/2021 11:32:43,priya kumari,22,priya1998@gmail.com,2,3,Female,Bhilai
+4/13/2021 11:34:42,ram kumar,21,ram2000@gmail.com,3,2,Male,Others
